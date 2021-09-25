@@ -1,5 +1,5 @@
 👋 Hi, I’m Tyler Rosnett  
-👀 I’m interested in web app development and DevOps
+👀 I’m interested in web app development and DevOps  
 🧠 I’m currently learning about cloud computing and AWS   
 💼 My day job involves building modern mainframe DevOps solutions  
 🎨 I like playing chess, fishing, and riding motocross in my free time  
